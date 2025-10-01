@@ -51,4 +51,10 @@ jspm_packages/
 .eslintcache
 
 # Vercel
-.vercel
+.vercel/
+
+# Build folders
+*/.next/
+*/.vercel/
+*/dist/
+*/build/
