@@ -9,7 +9,7 @@ export default function BestsellerSection() {
       <div className={styles.container}>
         <div className={styles.bestsellerGrid}>
           <div className={styles.bestsellerCopy}>
-            <p className={styles.eyebrow}>World's Best Seller</p>
+            <p className={styles.eyebrow}>World&apos;s Best Seller</p>
             <h2>The Art of Invisibility</h2>
             <p className={styles.bestsellerDesc}>
               Real-world advice on how to be invisible online from &quot;the FBI&apos;s most wanted hacker&quot; (Wired).
